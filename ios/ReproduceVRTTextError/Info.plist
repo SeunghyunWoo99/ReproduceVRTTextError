@@ -53,5 +53,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>Privacy — Camera Usage Description</key>
+	<string>AwesomeProject requires access to your phone’s camera.</string>
 </dict>
 </plist>
